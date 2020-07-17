@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.idea/*
+p4.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/vcs.xml
